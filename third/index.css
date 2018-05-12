@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 100px;
+    width: 100%
+}
+
+.first {
+    background-color: #D8D8D8;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.first_row_box {
+    height: 70px;
+    width: 70px;
+    background-color: #4A90E2;
+}
+
+.second {
+    height: 200px;
+    width: 100%;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.third {
+    background-color: #4A90E2;
+}
+
+.fourth {
+    background-color: #50E3C2;
+}
+
+.fifth  {
+    background-color: #B8E986;
+}
+
+.sixth {
+    background-color: #F8E71C;
+}
